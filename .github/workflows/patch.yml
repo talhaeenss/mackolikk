@@ -1,0 +1,1 @@
+azule -i yeni_surum.ipa -f AppleFavourMackolik.dylib zxPluginsInject.dylib -o sonuc.ipa
